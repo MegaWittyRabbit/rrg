@@ -10,3 +10,6 @@
 
 ![Whistling Arch](https://toredrivergorge.files.wordpress.com/2011/03/whistling-arch-21.jpg)
 * Whistling Arch*
+
+![Half Moon Arch](https://toredrivergorge.files.wordpress.com/2011/03/half-moon-arch-3.jpg)
+*Half Moon Arch*
