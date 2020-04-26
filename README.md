@@ -8,8 +8,9 @@
 ![Double Arch ](https://www.backpacker.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTcwNTM5NzA0MDUwMDAxNTk4/double-arch.webp)
 * Double Arch*
 
-![Whistling Arch](https://toredrivergorge.files.wordpress.com/2011/03/whistling-arch-21.jpg)
+
+![Whistling Arch](graphics/whistling-arch.jpg)
 * Whistling Arch*
 
-![Half Moon Arch](https://toredrivergorge.files.wordpress.com/2011/03/half-moon-arch-3.jpg)
+![Half Moon Arch](graphics/half-moon-arch.jpg)
 *Half Moon Arch*
