@@ -4,5 +4,5 @@
 *Double Arch Map with cliff over 40ft*
 
 ## Interactive Point Clouds of Double Arch of Red River Gorge
-[Interactive 3D point cloud of the Double Arch, RRG](potree/)
+[Interactive 3D point cloud of the Double Arch, RRG](potree/index.html)
 
